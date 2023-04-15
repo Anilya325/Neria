@@ -1,0 +1,4 @@
+    std::vector<std::vector<update>> update_note = {
+        {{"Windows Exploit 1.30f", {"Bone Select - Randomizer"}, "Bone select in aimbot allows targeting a specific bone area on the enemy's body, while the randomizer feature changes the aim point randomly to make the aimbot look more natural."}, {"Title 2", {"Middle Title 2", "Middle Title 22"}, "Description 2"}},
+        {{"Title 3", {"Middle Title 3", "Middle Title 33"}, "Description 3"}, {"Title 4", {"Middle Title 4", "Middle Title 44"}, "Description 4"}}
+    };
