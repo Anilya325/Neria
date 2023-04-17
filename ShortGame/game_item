@@ -1,4 +1,29 @@
 {
-  "name": ["Valorant", "Apex", "Rust", "CS:GO", "PUBG", "Unturned"],
-  "info": ["Valorant info", "Apex info", "Rust info", "CS:GO info", "PUBG info", "Unturned info"]
+  "name": [
+      "Valorant",
+      "Apex",
+      "Rust",
+      "CS:GO",
+      "PUBG",
+      "Unturned"
+  ],
+  
+  "info": [
+      "Valorant info",
+      "Apex info",
+      "Rust info",
+      "CS:GO info",
+      "PUBG info",
+      "Unturned info"
+  ],
+  
+  "lock": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+  ],
+  
 }
