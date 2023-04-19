@@ -1,20 +1,40 @@
 {
     "title": [
-        "Başlık 1",
-        "Başlık 2"
+        [
+            "Başlık 1",
+            "Başlık 2"
+        ],
+        [
+            "Başlık 3",
+            "Başlık 4"
+        ]
     ],
     "middle_title": [
         [
-            "Orta Başlık 1",
-            "Orta Başlık 2"
+            [
+                "Orta Başlık 1",
+                "Orta Başlık 2"
+            ]
         ],
         [
-            "Orta Başlık 3",
-            "Orta Başlık 4"
+            [
+                "Orta Başlık 3",
+                "Orta Başlık 4"
+            ],
+            [
+                "Orta Başlık 5",
+                "Orta Başlık 6"
+            ]
         ]
     ],
     "description": [
-        "Açıklama 1",
-        "Açıklama 2"
+        [
+            "Açıklama 1",
+            "Açıklama 2"
+        ],
+        [
+            "Açıklama 3",
+            "Açıklama 4"
+        ]
     ]
 }
