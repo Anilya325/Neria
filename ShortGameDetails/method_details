@@ -1,1 +1,28 @@
-
+{
+    "windows_exploit_lock": [
+        [true, true, true, true, false],
+        [true, true, true, true, false]
+    ],
+    "windows_exploit_version": [
+        ["18j.0W", "13b.0K", "11f.0A", "12a.0S", "10f.0M"],
+        ["18.0W", "13b.0K", "11.0A", "12a.0S", "10f.0M"]
+    ],
+    "description": [
+        [
+            "Valorant Select Method description",
+            "Valorant Windows Exploit Method description",
+            "Valorant Kernel Driver description",
+            "Valorant Arduino Leonardo description",
+            "Valorant USB Host Shield description",
+            "Valorant Only Macro description"
+        ],
+        [
+            "Apex Select Method description",
+            "Apex Windows Exploit Method description",
+            "Apex Kernel Driver description",
+            "Apex Arduino Leonardo description",
+            "Apex USB Host Shield description",
+            "Apex Only Macro description"
+        ]
+    ]
+}
