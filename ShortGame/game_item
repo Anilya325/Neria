@@ -17,7 +17,7 @@
   
   "lock": [
       true,
-      false,
+      true,
       true,
       false,
       true,
