@@ -1,25 +1,25 @@
-update: [
-    {
-        "title": "Valorant",
-        "mini_title": "Windows Exploit(v120)",
-        "date": "27.04.2023",
-        "text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience. Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience.",
-        "mini_text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience.",
-    },
-
-    {
-        "title": "Loader"
-        "mini_title": "Buf Fix(v120)",
-        "date": "27.04.2023",
-        "text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience. Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience.",
-        "mini_text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience.",
-    },  
-
-    {
-        "title": "Apex"
-        "mini_title": "Internal(v34)",
-        "date": "27.04.2023",
-        "text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience. Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience.",
-        "mini_text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat.This will enable players to have a more enjoyable cheating experience.",
-    },
-]
+{
+    "update": [
+        {
+            "title": "Valorant",
+            "mini_title": "Windows Exploit(v120)",
+            "date": "27.04.2023",
+            "text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience. Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience.",
+            "mini_text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience."
+        },
+        {
+            "title": "Loader",
+            "mini_title": "Buf Fix(v120)",
+            "date": "27.04.2023",
+            "text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience. Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience.",
+            "mini_text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience."
+        },
+        {
+            "title": "Apex",
+            "mini_title": "Internal(v34)",
+            "date": "27.04.2023",
+            "text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience. Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience.",
+            "mini_text": "Neria Loader offers various features in its latest updates to enhance the performance of the game cheat. This will enable players to have a more enjoyable cheating experience."
+        }
+    ]
+}
