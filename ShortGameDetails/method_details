@@ -1,27 +1,29 @@
 {
-    "description": [
+    "items": 
         [
-            "Valorant Windows Exploit Method description",
-            "Valorant Kernel Driver description",
-            "Valorant Arduino Leonardo description",
-            "Valorant USB Host Shield description",
-            "Valorant Only Macro description"
-        ],
-        [
-            "Apex Windows Exploit Method description",
-            "Apex Kernel Driver description",
-            "Apex Arduino Leonardo description",
-            "Apex USB Host Shield description",
-            "Apex Only Macro description"
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            },
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            },
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            },
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            }
         ]
-    ],
-    "methods": [
-        [true, true, true, true, true],
-        [true, false, false, true, false]
-    ],
-    "method_lock": [
-        [true, true, true, true, true],
-        [true, true, false, false, true]
-    ]
-    ]
 }
