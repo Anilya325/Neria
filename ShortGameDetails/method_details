@@ -28,5 +28,9 @@
     "methods": [
         [true, true, true, true, true],
         [true, false, false, true, false]
+    ],
+    "method_lock": [
+        [true, true, true, true, true],
+        [true, true, false, false, true]
     ]
 }
