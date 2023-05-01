@@ -1,12 +1,4 @@
 {
-    "windows_exploit_lock": [
-        [true, true, true, true, true],
-        [true, true, true, true, false]
-    ],
-    "windows_exploit_version": [
-        ["18j.0W", "13b.0K", "11f.0A", "12a.0S", "10f.0M"],
-        ["18.0W", "13b.0K", "11.0A", "12a.0S", "10f.0M"]
-    ],
     "description": [
         [
             "Valorant Select Method description",
