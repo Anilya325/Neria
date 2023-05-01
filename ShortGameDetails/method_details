@@ -25,4 +25,8 @@
             "Apex Only Macro description"
         ]
     ]
+    "methods": [
+        [true, true, true, true, true],
+        [true, false, false, true, false]
+    ]
 }
