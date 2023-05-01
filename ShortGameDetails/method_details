@@ -1,5 +1,32 @@
 {
-    "details": 
+    "items": 
+    [
+        [
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            },
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            },
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            },
+            {
+                "description": "Valorant Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+
+            }
+        ],
         [
             {
                 "description": "Valorant Windows Exploit Method description",
@@ -26,4 +53,5 @@
 
             }
         ]
+    ]
 }
