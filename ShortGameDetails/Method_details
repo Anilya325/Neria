@@ -1,7 +1,7 @@
 {
     "method": [
         {
-            "method_ex": [
+            [
                 {
                     "method_name": "Valo Windows Exploit",
                     "method_version": "1.1",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "method_ex": [
+            [
                 {
                     "method_name": "Apex Windows Exploit",
                     "method_version": "1.1",
