@@ -1,7 +1,6 @@
 {
     "description": [
         [
-            "Valorant Select Method description",
             "Valorant Windows Exploit Method description",
             "Valorant Kernel Driver description",
             "Valorant Arduino Leonardo description",
@@ -9,7 +8,6 @@
             "Valorant Only Macro description"
         ],
         [
-            "Apex Select Method description",
             "Apex Windows Exploit Method description",
             "Apex Kernel Driver description",
             "Apex Arduino Leonardo description",
