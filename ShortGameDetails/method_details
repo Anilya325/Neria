@@ -38,17 +38,7 @@
                 "description": "Apex Kernel Driver Method description",
                 "methods":true,
                 "method_lock":true
-            },
-            {
-                "description": "Apex Arduino Leonardo Method description",
-                "methods":false,
-                "method_lock":false
-            },
-            {
-                "description": "Apex Raspberry Pi Method description",
-                "methods":false,
-                "method_lock":false
-            },
+            },         
             {
                 "description": "Apex Only Macro Method description",
                 "methods":true,
