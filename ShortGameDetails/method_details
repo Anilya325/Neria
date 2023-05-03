@@ -9,22 +9,22 @@
             },
             {
                 "description": "Valorant Kernel Driver Method description",
-                "methods":true,
+                "methods":false,
                 "method_lock":true
             },
             {
                 "description": "Valorant Arduino Leonardo Method description",
-                "methods":true,
+                "methods":false,
                 "method_lock":true
             },
             {
                 "description": "Valorant Raspberry Pi Method description",
-                "methods":true,
+                "methods":false,
                 "method_lock":true
             },
             {
                 "description": "Valorant Only Macro Method description",
-                "methods":true,
+                "methods":false,
                 "method_lock":true
             }
         ],
