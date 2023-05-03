@@ -20,7 +20,7 @@
             {
                 "description": "Valorant Raspberry Pi Method description",
                 "methods":true,
-                "method_lock":false
+                "method_lock":true
             },
             {
                 "description": "Valorant Only Macro Method description",
@@ -41,12 +41,12 @@
             },
             {
                 "description": "Valorant Arduino Leonardo Method description",
-                "methods":false,
+                "methods":true,
                 "method_lock":false
             },
             {
                 "description": "Valorant Raspberry Pi Method description",
-                "methods":false,
+                "methods":true,
                 "method_lock":false
             },
             {
