@@ -6,51 +6,53 @@
                 "description": "Valorant Windows Exploit Method description",
                 "methods":true,
                 "method_lock":true
-
             },
             {
-                "description": "Valorant Windows Exploit Method description",
+                "description": "Valorant Kernel Driver Method description",
                 "methods":true,
                 "method_lock":true
-
             },
             {
-                "description": "Valorant Windows Exploit Method description",
+                "description": "Valorant Arduino Leonardo Method description",
                 "methods":true,
                 "method_lock":true
-
             },
             {
-                "description": "Valorant Windows Exploit Method description",
+                "description": "Valorant Raspberry Pi Method description",
                 "methods":true,
                 "method_lock":true
-
+            },
+            {
+                "description": "Valorant Only Macro Method description",
+                "methods":true,
+                "method_lock":true
             }
         ],
         [
             {
-                "description": "Valorant Windows Exploit Method description",
+                "description": "Apex Windows Exploit Method description",
                 "methods":true,
                 "method_lock":true
-
             },
             {
-                "description": "Valorant Windows Exploit Method description",
+                "description": "Apex Kernel Driver Method description",
                 "methods":true,
                 "method_lock":true
-
             },
             {
-                "description": "Valorant Windows Exploit Method description",
-                "methods":true,
+                "description": "Apex Arduino Leonardo Method description",
+                "methods":false,
                 "method_lock":true
-
             },
             {
-                "description": "Valorant Windows Exploit Method description",
-                "methods":true,
+                "description": "Apex Raspberry Pi Method description",
+                "methods":false,
                 "method_lock":true
-
+            },
+            {
+                "description": "Apex Only Macro Method description",
+                "methods":false,
+                "method_lock":true
             }
         ]
     ]
