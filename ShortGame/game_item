@@ -5,6 +5,7 @@
       "Rust",
       "CS:GO",
       "PUBG",
+      "PUBG2"
   ],
   
   "info": [
@@ -13,6 +14,7 @@
       "Rust info",
       "CS:GO info",
       "PUBG info",
+      "PUBG infos"
   ],
   
   "lock": [
@@ -21,6 +23,7 @@
       true,
       false,
       true,
+      true
   ],
   
 }
