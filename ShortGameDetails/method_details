@@ -41,17 +41,17 @@
             },
             {
                 "description": "Apex Arduino Leonardo Method description",
-                "methods":false,
-                "method_lock":true
+                "methods":true,
+                "method_lock":false
             },
             {
                 "description": "Apex Raspberry Pi Method description",
-                "methods":false,
-                "method_lock":true
+                "methods":true,
+                "method_lock":false
             },
             {
                 "description": "Apex Only Macro Method description",
-                "methods":false,
+                "methods":true,
                 "method_lock":true
             }
         ]
