@@ -51,8 +51,8 @@
             },
             {
                 "description": "Apex Only Macro Method description",
-                "methods":false,
-                "method_lock":false
+                "methods":true,
+                "method_lock":true
             }
         ]
     ]
