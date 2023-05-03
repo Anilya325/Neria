@@ -9,22 +9,22 @@
             },
             {
                 "description": "Valorant Kernel Driver Method description",
-                "methods":false,
+                "methods":true,
                 "method_lock":true
             },
             {
                 "description": "Valorant Arduino Leonardo Method description",
-                "methods":false,
+                "methods":true,
                 "method_lock":true
             },
             {
                 "description": "Valorant Raspberry Pi Method description",
-                "methods":false,
-                "method_lock":true
+                "methods":true,
+                "method_lock":false
             },
             {
                 "description": "Valorant Only Macro Method description",
-                "methods":false,
+                "methods":true,
                 "method_lock":true
             }
         ],
@@ -41,18 +41,18 @@
             },
             {
                 "description": "Apex Arduino Leonardo Method description",
-                "methods":true,
+                "methods":false,
                 "method_lock":false
             },
             {
                 "description": "Apex Raspberry Pi Method description",
-                "methods":true,
+                "methods":false,
                 "method_lock":false
             },
             {
                 "description": "Apex Only Macro Method description",
-                "methods":true,
-                "method_lock":true
+                "methods":false,
+                "method_lock":false
             }
         ]
     ]
