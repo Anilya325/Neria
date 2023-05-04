@@ -3,7 +3,7 @@
     [
         [
             {
-                "description": "Valorant Windows Exploit Method description",
+                "description": "Valorant Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description",
                 "methods":true,
                 "method_lock":true
             },
@@ -13,7 +13,7 @@
                 "method_lock":true
             },
             {
-                "description": "Valorant Arduino Leonardo Method description",
+                "description": "Valorant Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description",
                 "methods":true,
                 "method_lock":true
             },
