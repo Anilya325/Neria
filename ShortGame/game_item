@@ -4,7 +4,7 @@
       "Apex",
       "Rust",
       "CS:GO",
-      "PUBG",
+      "PUBG"
   ],
   
   "info": [
@@ -12,7 +12,7 @@
       "Apex info",
       "Rust info",
       "CS:GO info",
-      "PUBG info",
+      "PUBG info"
   ],
   
   "lock": [
@@ -20,7 +20,6 @@
       true,
       true,
       false,
-      true,
       true
   ],
   
@@ -29,6 +28,6 @@
       "Apex External Cheat",
       "Rust",
       "CS:GO",
-      "PUBG",
+      "PUBG"
   ]
 }
