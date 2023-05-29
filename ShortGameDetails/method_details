@@ -30,6 +30,87 @@
         ],
         [
             {
+                "description": "Valorant Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Kernel Driver Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Raspberry Pi Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Only Macro Method description",
+                "methods":true,
+                "method_lock":true
+            }
+        ],
+        [
+            {
+                "description": "Valorant Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Kernel Driver Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Raspberry Pi Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Only Macro Method description",
+                "methods":true,
+                "method_lock":true
+            }
+        ],
+        [
+            {
+                "description": "Valorant Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description Windows Exploit Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Kernel Driver Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description Arduino Leonardo Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Raspberry Pi Method description",
+                "methods":true,
+                "method_lock":true
+            },
+            {
+                "description": "Valorant Only Macro Method description",
+                "methods":true,
+                "method_lock":true
+            }
+        ],
+        [
+            {
                 "description": "Apex Windows Exploit Method description",
                 "methods":true,
                 "method_lock":true
